@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "USB_DUMP": {
+      "commandName": "Project",
+      "commandLineArgs": "--dev"
+    }
+  }
+}
